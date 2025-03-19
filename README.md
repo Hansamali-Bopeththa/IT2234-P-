@@ -1,1 +1,19 @@
 # IT2234-P-
+Practical01
+![practical01](https://github.com/user-attachments/assets/a1a63570-f7d3-470b-9552-23f3e6287e67)
+Practical02
+![practical02](https://github.com/user-attachments/assets/ad4e4c03-2c29-4ec2-a13a-e5cea284b2c7)
+Practical03
+![practical03](https://github.com/user-attachments/assets/77c618f8-a62a-4eae-b56d-373727d6bcdc)
+Practical04
+![practical04](https://github.com/user-attachments/assets/d4c71d5e-b745-45f9-8ea8-ddceef1b2984)
+Practical05
+![practical05](https://github.com/user-attachments/assets/c04b7a38-fe5c-4958-a84c-471fa4c593b2)
+Practical06
+![practical06](https://github.com/user-attachments/assets/6dc473f3-1b5f-4249-bbb8-49bef0581c89)
+Practical07
+![practical07](https://github.com/user-attachments/assets/c8c0d024-5fa3-44ee-b845-7702268507c0)
+Practical09
+![practical09](https://github.com/user-attachments/assets/ecedba1c-72bb-4fea-9592-3e5d43c9b6c0)
+Practical10
+![practical10](https://github.com/user-attachments/assets/3c485514-34ab-49e2-b8c3-01b5b26f0bc6)
